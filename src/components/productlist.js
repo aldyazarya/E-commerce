@@ -24,7 +24,7 @@ class Productlist extends Component {
 								{/* <!-- single product --> */}
 								<div class="col-lg-3 col-md-6">
 									<div class="single-product">
-										<img class="img-fluid" src="img/product/p1.jpg" alt=""/>
+										<img class="img-fluid" src="img/cambolegend8x10.png" alt=""/>
 										<div class="product-details">
 											<h6>addidas New Hammer sole
 												for Sports person</h6>

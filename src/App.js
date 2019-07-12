@@ -10,6 +10,7 @@ import Footer from './components/footer'
 import Home from './pages/home'
 import Login from './pages/login'
 import Register from './pages/register'
+import CreateProfile from './pages/createProfile'
 
 const cookie = new cookies()
 
@@ -32,6 +33,7 @@ class App extends Component {
           <Route path="/" exact component={Home}/>
           <Route path="/login" exact component={Login}/>
           <Route path="/register" exact component={Register}/>
+          <Route path="/createprofile" exact component={CreateProfile}/>
           
 
           <Footer/>
